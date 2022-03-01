@@ -1,0 +1,11 @@
+form{
+    border: 1px solid black;
+    padding: 5vh 3vw;
+    width: 500px;
+}
+button{
+    cursor: pointer;
+    color: black;
+    
+    padding: 10px 45px;
+}
